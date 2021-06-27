@@ -1,4 +1,4 @@
-# STOCK-SENTIMENTAL-ANALYSIS:
+# STOCK-SENTIMENTAL-ANALYSIS USING NEWS HEADLINES:
 
 
 Stock market is the bone of fast emerging economies.The volatility of stock prices depends on gains or losses of certain companies. News
